@@ -14,6 +14,7 @@ function setOperator(op) {
   }
   operator = op;
   previousInput = currentInput;
+  
   currentInput = '';
 }
 
